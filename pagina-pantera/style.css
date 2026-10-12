@@ -1,0 +1,183 @@
+body {
+    background-image: url("./imagens/fundo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.navbar-brand {
+    font-family: 'Fredoka', sans-serif;
+    font-weight: 700;
+    color: #c2185b !important;
+    font-size: 22px;
+}
+
+.navbar {
+    background-color: rgb(250, 143, 179) !important;
+}
+
+.btn-primary { 
+    background-color: #ff69b4 !important; 
+    border-color: #ff69b4 !important; 
+} 
+
+.btn-primary:hover { 
+    background-color: #ff1493 !important; 
+    border-color: #ff1493 !important;
+ }
+
+.btn-carrinho {
+    background-color: #ff69b4;
+    border-color: #ff69b4;
+    color: white;
+}
+
+.btn-carrinho:hover {
+    background-color: #ff1493;
+    border-color: #ff1493;
+    color: white;
+}
+
+/* remover */
+.btn-danger {
+    background-color: #f48fb1 !important;
+    border-color: #f48fb1 !important;
+}
+
+/* finalizar compra */
+.btn-success {
+    background-color: #ec407a !important;
+    border-color: #ec407a !important;
+}
+
+/* voltar */
+.btn-secondary {
+    background-color: #f8bbd0 !important;
+    border-color: #f8bbd0 !important;
+    color: #333 !important;
+}
+
+.btn-danger:hover {
+    background-color: #ec407a !important;
+}
+
+.btn-success:hover {
+    background-color: #d81b60 !important;
+}
+
+.btn-secondary:hover {
+    background-color: #f48fb1 !important;
+}
+
+#produtos {
+    background-image: url("./imagens/fundo-de-padrao-simples-com-listras-rosa-pastel_53876-117148.avif") !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#contato {
+    
+    color: #5c2a3a;
+}
+
+#contato h2 {
+    color: #e83e8c;
+}
+
+#contato h4 {
+    color: #d63384;
+}
+
+#contato .card {
+    background-color: #fff5f8;
+    border: 2px solid #f8bbd0;
+    border-radius: 20px;
+}
+
+#contato hr {
+    border-color: #f8bbd0;
+}
+
+#contato a {
+    color: #e83e8c;
+}
+
+#contato a:hover {
+    color: #c2185b;
+}
+
+#contato .rede-social {
+    color: #e83e8c;
+}
+
+#produtos .card {
+    height: 100%;
+}
+
+#produtos .card-body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+#produtos .comprar {
+    margin-top: auto !important;
+}
+
+#produtos .card-img-top {
+    height: 300px;
+    object-fit: contain;
+}
+
+#produtos .card-body h5 {
+    min-height: 48px;
+}
+
+#produtos .card-body p {
+    min-height: 48px;
+}
+
+.navbar-brand {
+    font-family: 'Bungee', cursive;
+    color: #ff69b4;
+    font-size: 20px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #6b2948;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fredoka', sans-serif;
+    color: #d63384;
+}
+
+h1 {
+    color: #c2185b;
+    font-weight: 700;
+}
+
+h2 {
+    color: #d63384;
+    font-weight: 600;
+}
+
+h5 {
+    color: #c2185b;
+    font-weight: 600;
+}
+
+p {
+    color: #6b2948;
+}
+
+strong {
+    color: #c2185b;
+}
+
+footer {
+    background-color: #faf7f9 !important; 
+}
